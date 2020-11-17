@@ -1,2 +1,2 @@
-# video-bias-analysis
-Multimodal analysis of product reviews and news on Youtube to determine if the videos are biased. 
+# Multimodal Analysis for biased reviews/news detection
+Now a days, everyone relies on online reviews to buy a product or to form an opinion on a topic. Youtube is such a platform where there are a ton of review/opinion videos. There are news channels on Youtube which covers news so that public can form their own opinion. But there are a lot of review videos which are biased towards a point and there are news channels which sometimes give their own opinion and influence the audience. Biased reviews can be used to boost the sales and create a good image of the product regardless of the actual quality.
